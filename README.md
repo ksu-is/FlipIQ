@@ -1,4 +1,4 @@
-# FlipIQ 🃏
+# FlipIQ
 A command-line flashcard study application built in Python.
 Students can load any subject from a .txt file and quiz themselves instantly.
 
