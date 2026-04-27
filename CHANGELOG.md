@@ -5,3 +5,9 @@
 - Added README, CHANGELOG, and Project Roadmap
 - Created biology.txt with 10 starter flashcards
 - Built load_cards() function to read and parse .txt file
+
+## [0.2.0] - Quiz Loop Added
+- Built run_quiz() function
+- Displays definition, accepts user input
+- Tracks correct and incorrect answers
+- Prints final score and summary
