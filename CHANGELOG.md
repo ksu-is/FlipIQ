@@ -11,3 +11,7 @@
 - Displays definition, accepts user input
 - Tracks correct and incorrect answers
 - Prints final score and summary
+
+## [0.3.0] - Project Slide Added
+- Created PowerPoint presentation slide for class
+- Includes project title, tagline, feature cards, and developer info
