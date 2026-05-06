@@ -7,9 +7,9 @@
 - [x] Display final score and summary
 
 ## Phase 2 - Study Features
-- [ ] Save missed cards to missed.txt
-- [ ] Shuffle cards randomly each session
-- [ ] Let user choose which file to load
+- [x] Save missed cards to missed.txt
+- [x] Shuffle cards randomly each session
+- [x] Let user choose which file to load
 
 ## Phase 3 - Polish
 - [ ] Add a welcome screen with the student's name
