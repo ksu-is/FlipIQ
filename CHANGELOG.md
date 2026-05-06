@@ -15,3 +15,9 @@
 ## [0.3.0] - Project Slide Added
 - Created PowerPoint presentation slide for class
 - Includes project title, tagline, feature cards, and developer info
+
+## [0.4.0] - Phase 2 Complete
+- Added random card shuffling using random.shuffle()
+- Added save_missed() function to write incorrect answers to missed.txt
+- Added file selection prompt so user can choose any .txt file at launch
+- Added try/except error handling for missing files
