@@ -12,6 +12,6 @@
 - [x] Let user choose which file to load
 
 ## Phase 3 - Polish
-- [ ] Add a welcome screen with the student's name
-- [ ] Track high scores across sessions
-- [ ] Support multiple subjects in one session
+- [x] Add a welcome screen with the student's name
+- [x] Track high scores across sessions
+- [x] Support multiple subjects in one session
