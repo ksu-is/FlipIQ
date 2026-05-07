@@ -21,3 +21,9 @@
 - Added save_missed() function to write incorrect answers to missed.txt
 - Added file selection prompt so user can choose any .txt file at launch
 - Added try/except error handling for missing files
+
+## [0.5.0] - Phase 3 Complete
+- Added welcome screen with student name input
+- Added save_score() to track scores in scores.txt
+- Added show_high_scores() to display past scores at startup
+- Added multi-subject loop so students can quiz on multiple files per session
